@@ -1,0 +1,6 @@
+*.pt
+*.pth
+Dataset/
+Results/
+__pycache__/
+.venv/
